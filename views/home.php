@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paws & Hearts - Find Your Perfect Companion</title>
+    
     <style>
         * {
             margin: 0;
@@ -19,7 +20,7 @@
             overflow-x: hidden;
         }
 
-        /* Header */
+        /* Header nfkjabvjqbk;b */
         header {
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
